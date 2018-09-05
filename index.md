@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Andrew Sim
+# Senior at Emory University pursuing B.S in Quantitative Sciences
 
-I'm glad you are here. I plan to talk about ...
+Andrew Sim's Github
